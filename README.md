@@ -1,4 +1,4 @@
-# mikroserwis
+# Działanie mikroserwisu
 # wyswietlanie instancji mikroserwisow
 ![rejestracjainstacjimikroserwisow-eureka](https://user-images.githubusercontent.com/40964663/101843877-710a0480-3b4b-11eb-9898-04abe2416216.png)
 # podglad aplikacji w intellij
